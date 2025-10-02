@@ -1,3 +1,17 @@
+////////////////////////////////////////////////////////////////
+//
+// Name: Arnulfo Salazar & Alexis Garza
+// Date: 10/01/2025
+// Class: CSCI 1470.04
+// Semester: Fall 2025
+// Instructor: Dr. Jonatan Reyes
+//
+// Program Name: Swap
+// Program Description: Swaps ints, doubles, and strings.
+//
+////////////////////////////////////////////////////////////////
+
+
 #include <iostream>
 #include <cmath>
 
